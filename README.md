@@ -3,5 +3,5 @@ Here are some ML and image processin projects in C++ that I've done to get acqua
 |  Folder name |   description|
 |---|---|
 | CV_contour_detection  |  contour detection with binarization |
-|   |   |
+| FaceDecectionHaar  |   Face detection with HaarCascade in camera video stream|
 |   |   |
